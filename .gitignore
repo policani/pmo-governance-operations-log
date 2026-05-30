@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated outputs
+examples/sample-outputs/generated/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Office temp files
+~$*
