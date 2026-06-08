@@ -15,6 +15,7 @@ Assumptions:
 Evidence gaps:
 Decisions needed:
 Risks, dependencies, or actions:
+Measurement contract, if value is claimed:
 Do not pass downstream:
 Suggested first prompt:
 
@@ -25,7 +26,7 @@ Suggested first prompt:
 | Sponsor/executive decision, tradeoff, or air-support need | Executive Portfolio Review Pack Builder | Decision requested, context, options, impact, deadline, owner, prior attempts |
 | Capacity conflict or sequencing decision | Portfolio Capacity Sequencing Planner | Affected initiatives, capacity constraint, dependency, fixed date, options, consequence of delay |
 | UAT, validation, release, or launch readiness issue | Release Readiness and UAT Governance Pack | Scope, readiness concern, environment/data issue, defects/blockers, signoff owner, target date |
-| Benefit, outcome, adoption, or value follow-up | Value Realization Governance Ledger | Expected value, metric, owner, baseline/target/actual if known, evidence gap, review date |
+| Benefit, outcome, adoption, or value follow-up | Value Realization Governance Ledger | Benefits follow-up register row and measurement contract: gap, owner, due date, review cadence, decision needed, escalation path, next evidence source, expected outcome, benefit type, metric, baseline, target, actual if available, measurement period, source, measure owner, validation need, confidence, realization risk, finance-sensitive flag, downstream route |
 | Control, compliance, supplier, audit, financial, or operational exposure | Controls Exposure Governance Toolkit | Exposure statement, owner, evidence, exception/remediation status, decision needed |
 | Weak or stale portfolio data is undermining governance | Portfolio Signal Quality Auditor | Stale status, missing owner/sponsor, duplicate demand, inconsistent fields, KPI hygiene issue |
 
@@ -43,3 +44,4 @@ Suggested first prompt:
 - Private discussion notes not needed for the receiving workflow.
 - Unsupported "green" status without evidence.
 - Decisions implied by the agent rather than provided by a human.
+- Delivery completion, status color, or meeting optimism as if it proves value realization.
