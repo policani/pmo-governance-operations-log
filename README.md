@@ -174,4 +174,4 @@ The script reads `examples/sample-data/synthetic_operations_log.csv` and writes 
 
 ## License
 
-No public open-source license has been selected yet. See `LICENSE.md`.
+Source code and scripts are licensed under MIT. Documentation, prompts, templates, examples, and other non-code materials are licensed under CC BY 4.0 with attribution to Marco Policani. See `LICENSE.md`.
