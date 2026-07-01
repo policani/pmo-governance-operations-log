@@ -23,6 +23,26 @@ Before: updates, blockers, meeting notes, decisions, and follow-ups are scattere
 
 After: rough PMO notes are classified into governance signals, summarized for leaders, converted into action and decision registers, and carried forward into meeting prep and follow-through.
 
+## July 2026 positioning update
+
+Customer-language research sharpened the value of this module: it is not just an
+operations log. It is decision memory and accountability support for governance
+rhythms where decisions, rationale, owners, evidence, exceptions, escalations,
+and follow-up can otherwise disappear between meetings.
+
+Lead with:
+
+- decisions and rationale captured with owners and dates;
+- action, blocker, risk, dependency, escalation, and carry-forward visibility;
+- weak green-status and missing-evidence flags;
+- executive air-support briefs when leadership help is needed;
+- handoff to executive review, capacity sequencing, release readiness, value
+  realization, controls, or signal cleanup when the log surfaces a different
+  operating problem.
+
+The module is structurally strong. The improvement target is clearer public copy
+that positions it as an accountability layer, not an administrative note cleaner.
+
 This project is part of a PMO and portfolio operating-system sequence:
 
 1. Business Case System - turns early ideas into decision-ready investment cases.
